@@ -1,7 +1,7 @@
 # 🍓 The Fruit Bowl Co - Fresh & Healthy Landing Page 🥗
 
 
-> **Live Demo:** [https://your-live-demo-url.vercel.app/](https://your-live-demo-url.vercel.app/)
+> **Live Demo:** [https://fruitbowllandingpage.vercel.app/]([https://fruitbowllandingpage.vercel.app/])
 
 A visually appealing and fully responsive landing page for a fictional company, "The Fruit Bowl Co." This project showcases a clean, modern design focused on fresh, healthy products, built with pure HTML, CSS, and JavaScript.
 
