@@ -56,7 +56,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### 👤 Author: Mathan C
 
-I am a passionate frontend developer focused on creating beautiful and functional web experiences.
+I am a passionate Full-Stack developer focused on creating beautiful and functional web experiences.
 
 *   **GitHub:** [@MathanCR7](https://github.com/MathanCR7)
 *   **LinkedIn:** [https://www.linkedin.com/in/mathan-c/](https://www.linkedin.com/in/mathan-c/)
