@@ -1,6 +1,5 @@
 # 🍓 The Fruit Bowl Co - Fresh & Healthy Landing Page 🥗
 
-![The Fruit Bowl Co Screenshot](./screenshot.png)
 
 > **Live Demo:** [https://fruitbowllandingpage.vercel.app/](https://fruitbowllandingpage.vercel.app/)
 
